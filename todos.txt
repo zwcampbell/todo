@@ -1,4 +1,5 @@
-Delete an old member
-Make a new task
-Create a task
-Create a GUI
+Do something else
+Create a new task
+Complete a task
+Update the GUI
+Add tasks in real time
