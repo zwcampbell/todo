@@ -1,0 +1,4 @@
+Delete an old member
+Make a new task
+Create a task
+Create a GUI
