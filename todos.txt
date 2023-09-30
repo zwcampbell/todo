@@ -1,5 +1,2 @@
-Do something else
 Create a new task
 Complete a task
-Update the GUI
-Add tasks in real time
